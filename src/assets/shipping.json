@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Un dia",
+    "price": 1200.00
+  },
+  {
+    "type": "3 Dias",
+    "price": 900.00
+  },
+  {
+    "type": "Regular(5-7 dias)",
+    "price": 300.00
+  }
+]
